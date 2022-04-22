@@ -1,4 +1,4 @@
-package com.example.job_test
+package com.example.job_testiiiiq
 
 import io.flutter.embedding.android.FlutterActivity
 
