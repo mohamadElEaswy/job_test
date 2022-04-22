@@ -18,7 +18,7 @@ class HomePage extends StatelessWidget {
         ],
       ),
       body: Center(
-        child: Text('user email : ${user.email}'),
+        child: Text('Hello ${user.email}'),
       ),
     );
   }
