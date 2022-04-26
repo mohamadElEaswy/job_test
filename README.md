@@ -1,9 +1,20 @@
-# job_test
+# Google sign in - regiester
 
-A new Flutter project, in this project the following features
+##General 
+A new Flutter project, in this project I applied the following features.
 
-signing in using google and without firebase
-simple home with the user email
-and logging out button
+## Featurs 
+* signing in using google and without firebase.
+* simple home with the user email.
+* logging out button.
+* Folders Archtecture (feature-first).
+* SOLID.
+* OOP. 
 
 
+## Technologies
+* flutter: 2.16.2
+* flutter_lints: ^1.0.4
+* font_awesome_flutter: ^10.1.0
+* google_sign_in: ^5.3.0
+* cupertino_icons: ^1.0.2
